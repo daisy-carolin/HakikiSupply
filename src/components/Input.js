@@ -109,7 +109,7 @@ const InputForm = () => {
 					Submit
 				</Button>
 			</Form>
-			<Header as="h2">Manufacturer Form</Header>
+			<Header as="h2">Consumer Form</Header>
 
 			<Form className="form">
 				<Form.Field>
